@@ -24,5 +24,8 @@ number of rooms and bedrooms in this dataset are provided per household, these
 columns may take surprisingly large values for block groups with few households
 and many empty houses, such as vacation resorts.
 
+# Python Notebook- Google Collab
+Google Collab Link with Python Code - <a href = "https://colab.research.google.com/drive/16HdFVhvRq-DEmNU61Qp8YXMTA3CxUmg-?usp=sharing"> View here </a>
+
 
 
