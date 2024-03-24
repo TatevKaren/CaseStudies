@@ -4,7 +4,7 @@ This Python script is designed to conduct a simulated A/B test, a commonly used 
 
 ![Control](https://github.com/TatevKaren/CaseStudies/assets/76843403/08318891-36ab-49da-acc5-6eca9a5780c0)
 
-
+Google Collab Link with Python Code - <a href = "https://colab.research.google.com/drive/1XP7_NS0tGq2UvQj4W9HyRMwN20Ynn0Yt?usp=sharing"> Click here </a>
 
 
 ## 1. Simulating Click Data for A/B Testing
