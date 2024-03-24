@@ -17,6 +17,7 @@ To simulate click data for an experimental group (`exp`) and a control group (`c
 - Creates two datasets: `df_exp` for the experimental group and `df_con` for the control group.
 - Each group has `1000` samples with different click probabilities (`0.5` for `exp` and `0.2` for `con`).
 - Merges the data into a single DataFrame `df_ab_test` for analysis.
+![Unknown](https://github.com/TatevKaren/CaseStudies/assets/76843403/7b754602-d3a7-42ad-961c-9e9b276aa9ed)
 
 ## 2. Statistical Significance in A/B Testing
 
