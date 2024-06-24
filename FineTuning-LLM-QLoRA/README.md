@@ -23,3 +23,13 @@ Origibal Data Collection Process can be found in this Notebook which has restric
 
 # Model Fine-Tuning and Storage
 Complete Fien-Tuning process is in this Notebook which has restricted access <a href = "https://colab.research.google.com/drive/12XbgpfnLeIADYVaneeS_snB4ZP0OBU38?usp=sharing](https://colab.research.google.com/drive/1ZZ9yzky9l7colGH_R48K6E8yOyMEnoUB?usp=sharing)"> Google Colab Link</a>
+
+
+
+# YouTube Comment Assistant with Base Model vs Fine-Tuned Model
+
+## With Base Model
+<img width="861" alt="Screenshot 2024-06-24 at 2 19 53 PM" src="https://github.com/TatevKaren/CaseStudies/assets/76843403/2693fc2a-0d5a-476b-83e0-02a35d2090cf">
+
+## With Fine-Tuned Model
+<img width="917" alt="Screenshot 2024-06-24 at 2 20 11 PM" src="https://github.com/TatevKaren/CaseStudies/assets/76843403/f623833e-e903-43dc-8c4d-19d4945e3dae">
