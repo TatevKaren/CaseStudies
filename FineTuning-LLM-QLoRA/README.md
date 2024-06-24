@@ -8,5 +8,6 @@ This is the data after preprocessing and setting in in specific format to be use
 
 <br>
 <br>
+
 # Model - Mistral-7B-Instruct-v0.2-GPTQ
 <img width="1351" alt="Screenshot 2024-06-24 at 11 49 42 AM" src="https://github.com/TatevKaren/CaseStudies/assets/76843403/1e54e085-7376-4675-a5b1-633ea382328d">
