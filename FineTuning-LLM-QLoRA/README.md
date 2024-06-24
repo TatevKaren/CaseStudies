@@ -1,6 +1,6 @@
 # Data - LunarTech YouTube Comments Sample 
 Acess and Download Dataset from HuggingFace - <a href = "https://huggingface.co/datasets/TatevK/lunartech-youtube-comments"> here </a>
-\\
+<br>
 This is the data after preprocessing and setting in in specific format to be used to Fine-Tune Mistral AI - 7B Instruct Model
 Origibal Data Collection Process can be found in this Notebook which has restricted access <a href = "https://colab.research.google.com/drive/12XbgpfnLeIADYVaneeS_snB4ZP0OBU38?usp=sharing"> Google Colab Link</a>
 <img width="1339" alt="Screenshot 2024-06-24 at 11 47 39 AM" src="https://github.com/TatevKaren/CaseStudies/assets/76843403/e59ee3a0-fb0c-49c5-81e5-6f7edb936db2">
